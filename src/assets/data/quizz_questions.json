@@ -1,0 +1,117 @@
+{
+    "title":"Você seria um herói, vilão ou Anti-herói ?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual super poder você escolheria ?",
+        "options":[
+          {"id": 1, "name":"Raios-Lasers", "alias":"A"},
+          {"id": 2, "name":"Voar", "alias":"B"},
+          {"id": 3, "name":"Explodir coisas", "alias":"A"},
+          {"id": 4, "name":"Curar feridas", "alias":"B"},
+          {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"},
+          {"id": 6, "name":"Ler a mente das pessoas", "alias":"C"}
+        ]
+        
+      },
+      {
+        "id":2,
+        "question": "Quem você salvaria primeiro ?",
+        "options":[
+          {"id": 1, "name":"Crianças", "alias":"B"},
+          {"id": 2, "name":"Idosos", "alias":"B"},
+          {"id": 3, "name":"Não saberia escolher", "alias":"C"},
+          {"id": 4, "name":"Tanto faz", "alias":"A"},
+          {"id": 5, "name":"EU", "alias":"A"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+        "options":[
+          {"id": 1, "name":"Não destruir prédios", "alias":"B"},
+          {"id": 2, "name":"Acabar com o inimigo", "alias":"C"},
+          {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
+          {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"},
+          {"id": 5, "name":"Terminar o serviço! ", "alias":"C"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Qual o seu maior foco ?",
+        "options":[
+          {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
+          {"id": 2, "name":"Salvar o mundo", "alias":"B"},
+          {"id": 3, "name":"Seguir suas regras", "alias":"C"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Qual o seu apelido de super ser ?",
+        "options":[
+          {"id": 1, "name":"O destruidor", "alias":"A"},
+          {"id": 2, "name":"Amigo da vizinhança", "alias":"B"},
+          {"id": 3, "name":"Fora da lei", "alias":"C"}
+        ]
+      },
+      {
+        "id":6,
+        "question": "Qual destes personagens é o seu favorito ?",
+        "options":[
+          {"id": 1, "name":"Capitão America", "alias":"B"},
+          {"id": 2, "name":"Justiceiro", "alias":"C"},
+          {"id": 3, "name":"Thanos", "alias":"A"},
+          {"id": 4, "name":"Coringa", "alias":"A"},
+          {"id": 5, "name":"Homem de Ferro", "alias":"C"},
+          {"id": 1, "name":"Homem Aranha", "alias":"B"}
+        ]
+      },
+      {
+        "id":7,
+        "question": "Escolha uma frase:",
+        "options":[
+          {"id": 1, "name":"Escolhas díficeis requerem determinação forte", "alias":"C"},
+          {"id": 2, "name":"Com grandes poderes, vem grandes responsabilidades", "alias":"B"},
+          {"id": 3, "name":"Tudo o que é proibido é mais gostoso", "alias":"A"}
+         
+        ]
+      },
+      {
+        "id":8,
+        "question": "Você está fazendo uma prova na qual apenas as melhores notas passam para a próxima fase. Um amigo te pede uma cola para poder passar na prova. O que você faz?",
+        "options":[
+          {"id": 1, "name":"Passo a cola pra ele mas com uma resposta incorreta", "alias":"A"},
+          {"id": 2, "name":"Não passo e o denuncio ao professor", "alias":"B"},
+          {"id": 3, "name":"Não passo a cola, mas, fico calado", "alias":"C"},
+          {"id": 4, "name":"Passo a cola correta para ele", "alias":"C"}
+          
+        ]
+      },
+      {
+        "id":9,
+        "question": "Você é um policial sozinho em uma blitz e para um motorista levemente alcoolizado. Você tem o direito de multá-lo, mas ele te oferece uma enorme quantia de dinheiro. Você aceita?",
+        "options":[
+          {"id": 1, "name":"Sim, ele está apenas levemente alcoolizado e não deve gerar grandes acidentes", "alias":"A"},
+          {"id": 2, "name":"Não, vou ignorar a tentativa de suborno e vou apenas multa-lo pelo álcool", "alias":"C"},
+          {"id": 3, "name":"Não, e o prenderei por tentativa de suborno", "alias":"B"}
+          
+        ]
+      },
+      {
+        "id":10,
+        "question": "A humanidade se vê diante de uma pandemia letal, um familiar bem próximo está correndo risco de vida por conta do vírus e o estágio dele já é muito avançado. Você descobre o antídoto mas em pouca quantidade. Para salvar o seu parente, você usaria cerca de 80% do frasco, mas você também tem a possibilidade de salvar toda a humanidade usando 100%. O que você FARIA?",
+        "options":[
+          {"id": 1, "name":"Uso o frasco e salvo quem eu amo", "alias":"C"},
+          {"id": 2, "name":"Tenta produzir mais doses do antídoto sob o risco de não salvar ninguém", "alias":"B"},
+          {"id": 3, "name":"Uso o frasco para salvar toda população a custo da vida do meu familiar", "alias":"B"},
+          {"id": 4, "name":"Uso o frasco para ficar rico", "alias":"A"}
+          
+        ]
+      }
+    ],
+    "results":{
+      "A": "Vilão - Você coloca seus objetivos acima de tudo e todos. Seu atos e opiniões foge ao senso comum e são considerados imorais pela maioria das pessoas!",
+      "B": "Herói - Você é o perfil mais correto moralmente. Suas ações são baseadas no bem ao próximo, acima do seu própio. Siga assim e você pode contribuir para um mundo melhor.!",
+      "C": "Anti-herói - Você pode não ser o mais correto moralmente, mas ainda é uma boa pessoa. Você geralmente é uma pessoa bem-humorada e tem a honra como uma ferramenta para alcançar os seus objetivos."
+    }
+  }

@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    color: azure;
+    
+}
+
+body{
+    background-color: #0c0b0e;
+    
+}
+
+body>img{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    height: 5px;
+
+}
+
